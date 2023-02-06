@@ -370,11 +370,6 @@ export const getServerSideProps: GetServerSideProps = async (
 ) => {
   const { req, res } = ctx;
 
-  res.setHeader(
-    "Cache-Control",
-    "public, s-maxage=10, stale-while-revalidate=120"
-  );
-
   const id = req.cookies["auth"];
 
   try {
