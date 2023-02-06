@@ -11,7 +11,7 @@ Savvy Banking App is a web-based application designed to offer convenient and ef
 Install this project with yarn
 
 ```bash
-  yarn install telekom-malaysia-assesment-testing
+  yarn install savvy-bank-app
 
 ```
     
@@ -19,8 +19,7 @@ Install this project with yarn
 
 Deploy this project on Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffirdisml%2Ftelekom-malaysia-assesment-testing)
-
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ffirdisml%2Fsavvy-bank-app)
 
 ## Tech Stack
 
