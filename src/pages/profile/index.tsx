@@ -19,8 +19,8 @@ function Index(props) {
   const [address_2, set_address_2] = useState(props.user.address2);
   const [city, set_city] = useState(props.user.city);
   const [postcode, set_postcode] = useState(props.user.postcode);
-  const [state, set_state] = useState(props.user.postcode);
-  const [country, set_country] = useState(props.user.postcode);
+  const [state, set_state] = useState(props.user.state);
+  const [country, set_country] = useState(props.user.country);
 
   /* @ts-ignore */
   const handle_update = async (e) => {
