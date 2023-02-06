@@ -41,3 +41,20 @@ Deploy this project on Vercel
 The Savvy Banking App utilizes cookies as a key component of its web security system. Cookies are small text files stored on a user's device by the web browser, and they help the website remember important information about the user's session. In the case of the Savvy Banking App, cookies are used to securely store information such as the user's login credentials. This information is encrypted to ensure that it remains confidential and cannot be accessed by unauthorized parties.
 
 The Savvy Banking App utilizes server-side rendering (SSR) and APIs to manage user sessions and assign cookies. SSR involves rendering web pages on the server before sending them to the client's browser, which allows for the creation of a secure and efficient user session management system. The app uses APIs to communicate with the server and assign cookies to users when they log in. 
+
+## Test Account
+
+### First Account
+**Credential:** 22424495
+
+**Password:** password
+
+**Account Number:** 7618469914
+
+### Second Account
+**Credential:** 04186580
+
+**Password:** password
+
+**Account Number:** 7618469922
+
